@@ -38,9 +38,6 @@ show_banner_debug() {
     echo "[!] Session ID: $(generate_engine_id)"
 }
 
-# ======================================================
-# EXECUTION
-# ======================================================
 if [[ "$1" == "--start" ]]; then
     init_session
     show_banner_debug
