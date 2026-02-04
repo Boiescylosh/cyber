@@ -2,7 +2,7 @@
 
 Tiap LEVEL berbeda-beda dalam mencari Password untuk lanjut ke LEVEL berikutnya, maka, Lu harus cari cara bagaimana tiap LEVEL ketemu passwordnya.
 
-# Commad yang bisa lu pakai
+# Command yang bisa lu pakai
 
 ls, ls -la, cd, cat, find, base64, strings, grep, echo, sort, uniq, tr, cut, xargs
 
