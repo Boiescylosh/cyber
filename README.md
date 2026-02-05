@@ -44,4 +44,4 @@ sudo apt update && sudo apt install git bash coreutils util-linux ncurses-bin -y
 
 # Note
 
-Challenge Berhasil Lu Dapat Reward
+Jika challenge berhasil dalam 60 menit, Reward yang lu dapatkan Rp. 100.000 
