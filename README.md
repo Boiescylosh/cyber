@@ -12,13 +12,15 @@ ls, ls -la, cd, cat, find, base64, strings, grep, echo, sort, uniq, tr, cut, xar
 2. pkg upgrade -y
 3. pkg install git -y
 4. pkg install bash -y
-5. pkg install coreutils -y
-6. pkg install util-linux -y
-7. pkg install ncurses-utils -y
-8. git clone https://github.com/Boiescylosh/cyber
-9. cd cyber
-10. chmod +x cyber.sh
-11. ./cyber.sh atau bash cyber.sh
+5. pkg install openssh -y
+6. pkg install base64 -y
+7. pkg install coreutils -y
+8. pkg install util-linux -y
+9. pkg install ncurses-utils -y
+10. git clone https://github.com/Boiescylosh/cyber
+11. cd cyber
+12. chmod +x cyber.sh
+13. ./cyber.sh atau bash cyber.sh
 
 # Installation ( Linux )
 
@@ -26,13 +28,14 @@ ls, ls -la, cd, cat, find, base64, strings, grep, echo, sort, uniq, tr, cut, xar
 2. sudo apt upgrade -y
 3. sudo apt install git -y
 4. sudo apt install bash -y
-5. sudo apt install coreutils -y
-6. sudo apt install util-linux -y
-7. sudo apt install ncurses-bin -y
-8. git clone https://github.com/Boiescylosh/cyber
-9. cd cyber
-10. chmod +x cyber.sh
-11. ./cyber.sh atau bash cyber.sh
+5. sudo apt install base64 -y
+6. sudo apt install coreutils -y
+7. sudo apt install util-linux -y
+8. sudo apt install ncurses-bin -y
+9. git clone https://github.com/Boiescylosh/cyber
+10. cd cyber
+11. chmod +x cyber.sh
+12. ./cyber.sh atau bash cyber.sh
 
 # Installation ( WSL )
 
