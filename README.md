@@ -44,7 +44,3 @@ sudo apt update && sudo apt install git bash coreutils util-linux ncurses-bin -y
 # Image Script
 
 ![preview](https://b.top4top.io/p_3687ck9sp0.jpg)
-
-# Note
-
-Jika challenge berhasil dalam 30 menit, Reward yang lu dapatkan Rp. 100.000, | Limit game sampe akhir Februari
