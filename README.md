@@ -39,7 +39,11 @@ ls, ls -la, cd, cat, find, base64, strings, grep, echo, sort, uniq, tr, cut, xar
 
 # Installation ( WSL )
 
-sudo apt update && sudo apt install git bash coreutils util-linux ncurses-bin -y
+1. sudo apt update && sudo apt install git bash coreutils util-linux ncurses-bin -y
+2. git clone https://github.com/Boiescylosh/cyber
+3. cd cyber
+4. chmod +x cyber.sh
+5. ./cyber.sh atau bash cyber.sh
 
 # Image Script
 
