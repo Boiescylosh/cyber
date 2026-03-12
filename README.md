@@ -45,6 +45,4 @@ ls, ls -la, cd, cat, find, base64, strings, grep, echo, sort, uniq, tr, cut, xar
 4. chmod +x cyber.sh
 5. ./cyber.sh atau bash cyber.sh
 
-# Image Script
-
 ![preview](https://b.top4top.io/p_3687ck9sp0.jpg)
